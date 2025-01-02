@@ -130,6 +130,8 @@ Nati 1850-1874:
 - Debussy, Claude (Saint-Germain-en-Laye (FR), 1862 - Parigi, 1918)
 - Mascagni, Pietro (Livorno, 1863 - Roma, 1945)
 - Strauss, Richard Georg (Monaco di Baviera, 1864 - Garmisch-Partenkirchen (DE), 1949)
+- Dukas, Paul (Parigi, 1865 - Parigi, 1935)
+- Satie, Éric Alfred Leslie (Honfleur (FR), 1866 - Parigi, 1925)
 - Strauss, Johann II (Vienna, 1866 - Berlino, 1939)
 - Busoni, Dante Michelangelo Benvenuto Ferruccio (pf : Empoli, 1866 - Berlino, 1924)
 - Vaughan Williams, Ralph (Down Amphey, 1872 - Londra, 1958)
@@ -140,22 +142,37 @@ Nati 1875-1899:
 - Ravel, Joseph Maurice (Ciboure (FR), 1875 - Parigi, 1937)
 - Respighi, Ottorino (Bologna, 1879 - Roma, 1936)
 - Pizzetti, Ildebrando (Parma, 1880 - Roma, 1968)
+- Bartók, Béla Viktor János (Nagyszentmiklós, 1881 - New York, 1945)
 - Stravinskij, Igor' Fëdorovič (Lomonosov, 1882 - New York, 1971)
 - Malipiero, Gran Francesco (Venezia, 1882 - Treviso, 1973)
 - Webern, Anton Friedrich Wilhelm : von (Vienna, 1883 - Mitterstill (AU), 1945)
 - Casella, Alfredo (Torino, 1883 - Roma, 1947)
 - Berg, Alban Marie Johannes (Vienna, 1885 - Vienna, 1935)
+- Dupré, Marcel Jean Jules (Rouen (FR), 1886 - Meudon (FR), 1971)
 - Prokof'ev, Sergej Sergeevič (Soncovka (RU), 1891 - Mosca, 1953)
 - Milhaud, Darius (Marsiglia, 1892 - Ginevra, 1974)
 
 Nati 1900-1924:
+- Rodrigo Vidre, Joaquín (Sagunto (SP), 1901 - Madrid, 1999)
+- Jolivet, André (Parigi, 1905 - Parigi, 1974)
+- Scelsi, Giacinto Francesco Maria (Roma, 1905 - Roma, 1988)
 - Šostakovič, Dmítrij Dmítrievič (San Pietroburgo, 1906 - Mosca, 1975)
     + Stalin, Iosif (Gori (RU), 1878 - Mosca, 1953)
+- Messiaen, Olivier Eugène Prosper Charles (Avignone, 1908 - Clichy, 1992)
+    + Martenot, Maurice (Parigi, 1898 - Clichy, 1980)
+        > Onde Martenot
+    + Theremin, Léon (San Pietroburgo, 1896 - Mosca, 1993)
+        > Theremin
 - Barber, Samuel Osmond II (West Chester (USA), 1910 - New York, 1981)
 - Strauss, Eduard II (Vienna, 1910 - Vienna, 1969)
 - Cage, John Milton Jr. (Los Angeles, 1912 - New York, 1992)
 - Britten, Edward Benjamin (Lowestoft (UK), 1913 - Aldeburgh (UK), 1976)
 - Bernstein, Leonard (Lawrence (USA), 1918 - New York, 1990)
+- Xenakis, Iannis (Brăila (RO), 1922 - Parigi, 2001)
 
 Nati dal 1925 in poi:
-- 
+- Boulez, Pierre Louis Joseph (Montbrison (FR), 1925 - Baden-Baden (DE), 2016)
+- Kurtág, György (Lugoj (RO), 1926 -)
+- Stockhausen, Karlheinz (Kerpen (DE), 1928 - Kürten, 2007)
+- Reich, Stephen Michael (New York, 1933 -)
+- Glass, Philip (Baltimora, 1933)
