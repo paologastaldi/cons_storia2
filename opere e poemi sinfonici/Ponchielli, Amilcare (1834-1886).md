@@ -10,4 +10,4 @@
 - libretto: Arrigo Boito
     + da _Angelo, tyran de Padoue_ (1835) di Victor Hugo
 - musiche/arie famose:
-    + danza delle ore
+    + _danza delle ore_
