@@ -1,4 +1,4 @@
-# Wagner, Richard ()
+# Wagner, Wilhelm Richard (1813-1883)
 
 ## Opere
 
