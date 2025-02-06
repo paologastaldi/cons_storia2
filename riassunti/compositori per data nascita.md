@@ -4,6 +4,7 @@ Nati 1600-1624:
 - Froberger, Johann Jakob (Stoccarda (DE), 1616 - Héricourt (FR), 1667)
 
 Nati 1625-1649:
+- Legrenzi, Giovanni (Clusone, 1626 - Venezia, 1690)
 - Lully, Jean-Baptiste (Firenze, 1632 - Parigi, 1687)
 - Buxtehude, Dietrich (Danimarca, Germania nord 1637-1707)
 
@@ -27,7 +28,8 @@ Nati 1675-1699:
     + Goldoni, Carlo (Venezia, 1707 - Parigi, 1793)
 - Telemann, Georg Philipp (org : Magdeburgo, 1681 - Amburgo, 1767)
 - Rameau, Jean-Philippe (Digione (FR), 1683 - Parigi, 1764)
-- Bach, Joahnn Sebastian (Eisenach, 1685 - Lipsia, 1723)
+- Graupner, Christoph (Kirchberg (DE), 1683 - Darmstadt (DE), 1760)
+- Bach, Joahnn Sebastian (Eisenach, 1685 - Lipsia, 1750)
 - Händel, Georg Friedrick (Halle, 1685 - Londra, 1759)
     + Porpora, Nicola (1686-1768)
         * Farinelli AKA Broschi, Carlo Maria Michelangelo Nicola (Andria, 1705 - Bologna, 1782)
@@ -44,11 +46,11 @@ Nati 1700-1724:
 - Alberti, Domenico (Venezia, 1710 - Roma, 1740)
 - Bach, Wilhelm Friedmann (Weimar, 1710 - Berlino, 1784)
 - Gluck, Christoph Willibald (Erasbach (DE), 1714 - Vienna, 1787)
+    + Piccinni, Niccolò (Bari, 1728 - Passy (FR), 1800)
 - Bach, Carl Philipp Emmanuel (Weimar, 1714 - Amburgo, 1788)
 - Mozart, Leopold (Augusta, 1719 - Salisburgo, 1787)
 
 Nati 1725-1749:
-- Piccinni, Niccolò (Bari, 1728 - Passy (FR), 1800)
 - Sacchini, Antonio Maria Gaspare (Firenze, 1730 - Parigi, 1786)
 - Haydn, Franz Joseph (Rohrau (AU), 1732 - Vienna, 1809)
 - Bach, Johann Christian (Lipsia, 1735 - Londra, 1782)
@@ -66,7 +68,8 @@ Nati 1725-1749:
 Nati 1750-1774:
 - Salieri, Antonio (Legnano, 1750 - Vienna, 1825)
 - Clementi, Muzio Filippo Vincenzo Francesco Saverio (Roma, 1752 - Evesham (UK), 1832)
-- querelles des bouffons (Parigi, 1752)
+- _querelles des Bouffons_ (Parigi, 1752)
+    * Luigi XV bandisce i _Bouffons_ dai teatri francesi (Parigi, 1754)
 - Mozart, Wolfang Amadeus (Salisburgo, 1756 - Vienna, 1791)
 - Cherubini, Luigi (Firenze, 1760 - Parigi, 1842)
 - Beethoven, Ludwig : van (Bonn, 1770 - Vienna, 1827)
