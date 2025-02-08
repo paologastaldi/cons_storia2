@@ -1,6 +1,7 @@
 # Compositori ordinati per data di nascita
 
 Nati 1600-1624:
+- Carissimi, Giacomo (Marino, 1605 - Roma, 1674)
 - Froberger, Johann Jakob (Stoccarda (DE), 1616 - Héricourt (FR), 1667)
 
 Nati 1625-1649:
@@ -45,6 +46,7 @@ Nati 1700-1724:
 - Pergolesi AKA Draghi, Giovanni Battista (Jesi, 1710 - Pozzuoli, 1736)
 - Alberti, Domenico (Venezia, 1710 - Roma, 1740)
 - Bach, Wilhelm Friedmann (Weimar, 1710 - Berlino, 1784)
+- Boyce, Wiliam (org: Londra, 1711 - Londra, 1779)
 - Gluck, Christoph Willibald (Erasbach (DE), 1714 - Vienna, 1787)
     + Piccinni, Niccolò (Bari, 1728 - Passy (FR), 1800)
 - Bach, Carl Philipp Emmanuel (Weimar, 1714 - Amburgo, 1788)
@@ -68,6 +70,7 @@ Nati 1725-1749:
 Nati 1750-1774:
 - Salieri, Antonio (Legnano, 1750 - Vienna, 1825)
 - Clementi, Muzio Filippo Vincenzo Francesco Saverio (Roma, 1752 - Evesham (UK), 1832)
+    > costruttore di pianoforti in Inghilterra
 - _querelles des Bouffons_ (Parigi, 1752)
     * Luigi XV bandisce i _Bouffons_ dai teatri francesi (Parigi, 1754)
 - Mozart, Wolfang Amadeus (Salisburgo, 1756 - Vienna, 1791)
