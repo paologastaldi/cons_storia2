@@ -73,7 +73,7 @@
     + _Va, pensiero, sull'ali dorate_: coro degli schiavi ebrei
         > diventa l'inno del popolo italiano oppresso dal dominio austriaco
 
-#### I Lombardi alla prima crociata
+#### I Lombardi alla prima crociata (1843)
 
 - genere: opera lirica
 - lingua: italiano
@@ -144,7 +144,7 @@
     + Aquisgrana, tomba di Carlo Magno
         * Carlo V viene incoronato imperatore
         * Elvira intercede: viene data in sposta a Ernani
-    * Ernani AKA Don Giovanni d'Aragona si sposta con Elvira
+    * Ernani AKA Don Giovanni d'Aragona si sposa con Elvira
         * Silva si suicida
 
 #### Giovanna d'Arco (1845)
@@ -161,7 +161,7 @@
     + 1429: gli inglesi stanno per conquistare la Francia
     + Carlo VII: pensa di abdicare al trono
         * va nel bosco a riflettere
-        * incotra Giovanna
+        * incontra Giovanna
         * Giovanna riceve un segno divino di combattere
     + Giovanna: si innamora di Carlo
         * viene meno alla rinuncia dell'amore terreno
@@ -394,7 +394,7 @@
         * Stankar uccide Raffaele
         * Stiffelio, in quanto pastore, confessa Lina e la perdona
 
-#### La battaglia di Legnano
+#### La battaglia di Legnano (1849)
 
 - genere: opera
 - lingua: italiano
@@ -460,12 +460,42 @@
 - lingua: italiano
 - struttura: 
     > fa parte della "Trilogia popolare"
-- libretto: 
-- personaggi
-- trama e morale:
+- libretto: Salvadore Cammarano, Leone Emanuele Bardare
+    + dal romanzo _El Trovador_ di Antonio García Gutiérrez
+- personaggi:
+    + Manrico: trovatore
+        * innamorato di Leonora
+    + Azucena
+    + Leonora:
+        * innamorata di uno sconosciuto trovatore
+    + Conte di Luna
+        * innamorato di Leonora
+- trama e morale: Spagna, XV secolo
+    + (eventi accaduti prima)
+        * gitana (Azucena): vendica la madre accusata di stregoneria
+        * rapisce il fratello del Conte di Luna e lo butta nella pira
+        * nella foga: butta il suo vero figlio e salva il fratello del Conte di Luna (Manrico)
+    + Manrico vede Leonora e il Conte di Luna
+        * Manrico e il Conte di Luna si sfidano a duello
+    + Azucena: racconta la sua storia a Manrico
+        * Manrico capisce di non essere suo figlio
+    + battaglia tra gitani e Conte di Luna
+        * Manrico creduto morto
+        * Leonora non vuole sposare nessun altro, sta per entrare in convento
+        * Manrico arriva alla cerimonia e fugge con Leonora
+    + Conte di Luna: assedia il castello di Manrico
+        * Manrico e Leonora si stanno per sposare
+        * viene catturata Azucena
+        * Manrico cerca di liberare Azucena, ma viene catturato
+        * Leonora cerca di intercedere: liberare Manrico e Azucena e lei sposerà il Conte di Luna
+        * Leonora intanto si avvelena
+        * Leonora va a liberare Manrico e muore tra le sue braccia
+        * il Conte di Luna uccide Manrico
+        * Azucena racconta al Conte di Luna che Manrico era suo fratello
 - musiche/arie famose:
+    + coro dei gitani
 
-#### Les vêspres siciliennes
+#### Les vêspres siciliennes (1855)
 
 - genere: grand-opéra
 - lingua: francese
@@ -833,7 +863,7 @@
     + arrivano degli ambasciatori da Venezia
         * Otello deve tornare a Venezia. Cassio diventerà governatore al suo posto
         * Iago continua inganni per far credere a Otello del tradimento
-        * Otello organizza l'omicidio di Desdemonia con Cassio
+        * Otello organizza l'omicidio di Desdemona con Cassio
     + Desdemona si prepara a partire
         * Otello soffoca Desdemona con un cuscino
         * entra Emilia mentre Desdemona muore
