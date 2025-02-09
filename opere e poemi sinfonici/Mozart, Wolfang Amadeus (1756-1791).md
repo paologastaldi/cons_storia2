@@ -42,7 +42,7 @@
         * c'è chi vuole salvarla: Belfiore
         * c'è chi vuole impedire il ritrovamento: Arminda
     + finale:
-        * Belfiore e Violetta si sposano
+        * Belfiore e Violante si sposano
         * Arminda sposta Ramiro
         * Serpetta sposa Nardo
 > Mozart aveva 19 anni
@@ -85,6 +85,8 @@
 - genere: Singspiel
 - lingua: tedesco
 - struttura: 3 atti
+- libretto: Johann Gottlieb Stephanie
+    + da dramma _Belmont und Constanze, oder Die Entführung aus dem Serail_ di Christoph Friedrich Bretzner
 - personaggi:
     + Belmonte: nobile spagnolo
         * figlio del comandante di Orano
@@ -113,14 +115,14 @@
     + ouverture
 > elementi esoterici ("turcherie")
 
-### Der Schauspieldirektor (L'impresario teatrale)
+### Der Schauspieldirektor (L'impresario teatrale) (1786)
 
 - genere: Singspiel
 - lingua: tedesco
 - struttura: 1 atto
 - libretto: Johann Gottlieb Stephanie
 - trama e morale:
-    + hp. trama suggerita dall'Imperatore per evitare incidenti diplomatici]
+    + hp. trama suggerita dall'Imperatore per evitare incidenti diplomatici
     + impresario teatrale crea una compagnia per uno spettacolo a Salisburgo
     + rivalità tra i 2 soprani
 - musiche/arie famose:

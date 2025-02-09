@@ -227,7 +227,7 @@
     + Marchesa di Berckenfield:
         * madre di Marie
         * si finge la zia di Marie
-    + Hortensius: maggiordomo della Marchesa di Berckenfield:
+    + Hortensius: maggiordomo della Marchesa di Berckenfield
     + Duchessa di Krakentorp
 - trama e morale:
     + in un villaggio del Tirolo
@@ -266,7 +266,7 @@
     + Linda:
         * amante segreta di Carlo
     + Pierotto: giovane orfano della Savoia
-    + Carlo: padre di Linda
+    + Antonio: padre di Linda
         * affittaiuolo
         * in verità: Visconte di Sirval e nipote del Marchese
     + Maddalena: madre di Linda

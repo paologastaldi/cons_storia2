@@ -1,4 +1,4 @@
-# Cherubini, Luigi Maria (1790-1842)
+# Cherubini, Luigi Maria (1760-1842)
 
 ## Opere
 

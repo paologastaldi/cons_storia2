@@ -109,7 +109,7 @@
     + Jacopo Foscari: figlio del Doge
 - trama e morale:
     + a Venezia, 1457
-    + vogliono mandare Jacopo Foscare in esilio
+    + vogliono mandare Jacopo Foscari in esilio
         * accusato di duplice omicidio
         * Jacopo imprigionato muore di dolore
     + …
