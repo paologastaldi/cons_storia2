@@ -18,6 +18,12 @@
 
 ### Aus italien (1886)
 
+- movimenti:
+    1. Auf der Campagna (On the Roman Campagna)
+    2. In Roms Ruinen (In the Ruins of Rome)
+    3. Am Strande von Sorrent (At the Beach at Sorrento)
+    4. Neapolitanisches Volksleben (Neapolitan Folk Life)
+
 ### Don Juan Op. 20 (1889)
 
 - trama:
