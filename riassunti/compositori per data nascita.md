@@ -75,16 +75,21 @@ Nati 1750-1774:
     * Luigi XV bandisce i _Bouffons_ dai teatri francesi (Parigi, 1754)
 - Mozart, Wolfang Amadeus (Salisburgo, 1756 - Vienna, 1791)
 - Cherubini, Luigi (Firenze, 1760 - Parigi, 1842)
+- Süßmayr, Franz Xaver (Schwanenstadt (AU), 1766 – Vienna, 1803)
+    > allievo di Mozart
 - Beethoven, Ludwig : van (Bonn, 1770 - Vienna, 1827)
+    > allievo di Haydn, compagno di Czerny
 - Reicha, Antonín (Praga (CH), 1770 - Parigi, 1836)
 - Spontini, Gaspare (Maiolati, 1774 - Maiolati, 1851)
 
 Nati 1775-1799:
 - Hummel, Johann Nepomuk (pf, Bratislava (SK), 1778 - Weimar (DE), 1837)
+    > allievo di Mozart, Clementi, Haydn
 - Auber, Daniel François Esprit (Caen (FR), 1782 - Parigi, 1871)
 - Paganini, Niccolò (vl : Genova, 1782 - Nizza, 1840)
 - Weber, Carl Maria Friedrich Ernst : von (Eutin (DE), 1786 - Londra, 1826)
 - Czerny, Carl (Vienna, 1791 - Vienna, 1857)
+    > allievo di Beethoven
 - Meyerbeer, Giacomo (Tasdorf (DE), 1791 - Parigi, 1864)
 - Rossini, Gioachino (Pesaro, 1792 - Passy (FR), 1868)
 - Schubert, Franz Peter (Vienna, 1797 - Vienna, 1828)
@@ -107,10 +112,12 @@ Nati 1800-1824:
     + Emanuele Muzio AKA Donnino Emanuele Muzio (Zibello, 1821 - Parigi, 1890)
 - Bazzini, Antonio (Brescia, 1818 - Milano, 1817)
 - Gounod, Charles François (Parigi, 1818 - Saint-Cloud (FR), 1893)
+- Offenbach, Jacques (Colonia (DE), 1819 – Parigi, 1880)
 - Wieck Schumann, Clara Josephine (pf : Lipsia, 1819 - Francoforte sul Meno, 1896)
 - Vieuxtemps, Henri François Joseph (vl : Verviers (BE), 1820 - Mustapha Supérieur (AL), 1881)
 - Franck, César Auguste-Jean-Guillaume-Hubert (org : Liegi (BE), 1822 - Parigi, 1890)
 - Bruckner, Joseph Anton (Ansfelden (AU), 1824 - Vienna, 1896)
+- Smetana, Bedřich (Litomyšl (CH), 1824 – Praga (CH), 1884)
 
 Nati 1825-1849:
 - Strauss, Johann (figlio) (Vienna, 1825 - Vienna, 1899)
@@ -121,6 +128,8 @@ Nati 1825-1849:
 - Ponchielli, Amilcare (Paderno Fasolaro, 1834 - Milano, 1886)
 - Rubinštejn, Nikolaj Grigor'evič (Mosca, 1935 - Parigi, 1881)
 - Strauss, Eduard (Vienna, 1835 - Vienna, 1916)
+- Saint-Saëns, Charles Camille (org: Parigi, 1835 – Algeri, 1921)
+    > allievo di Halévy
 - Balakirev, Milij Alekseevič (Nižnij Novgorod (RU), 1836 - San Pietroburgo, 1910)
 - Gilbert, William Schwenck : sir (Londra, 1836 - Londra, 1911)
 - Bizet, Georges (Parigi, 1838 - Bougival (FR), 1875)
@@ -132,10 +141,15 @@ Nati 1825-1849:
 - Massenet, Jules Émile Frédéric (Saint-Étienne, 1842 - Parigi, 1912)
 - Grieg, Edvard Hagerup (Bergen (NO), 1843 - Bergen (NO), 1907)
 - Rimskij-Korsakov, Nikolaj Andreevič (Tichvin, 1844 - Ljubensk, 1908)
+- Fauré, Gabriel Urbain (Pamiers (FR), 1845 – Parigi, 1924)
 
 Nati 1850-1874:
+- d'Indy, Vincent (Parigi, 1851 – Parigi, 1931)
+    > allievo di Franck
 - Leoncavallo, Ruggero (Napoli, 1857 - Montecatini Terme, 1919)
 - Elgar, Edward William (Broadheath (UK), 1857 - Worcester (UK), 1934)
+- Puccini, Giacomo (Lucca, 1858 – Bruxelles, 1924)
+    > allievo Ponchielli
 - Mahler, Gustav (Kaliště (CH), 1860 - Vienna, 1911)
 - Debussy, Claude (Saint-Germain-en-Laye (FR), 1862 - Parigi, 1918)
 - Mascagni, Pietro (Livorno, 1863 - Roma, 1945)
@@ -144,6 +158,8 @@ Nati 1850-1874:
 - Satie, Éric Alfred Leslie (Honfleur (FR), 1866 - Parigi, 1925)
 - Strauss, Johann II (Vienna, 1866 - Berlino, 1939)
 - Busoni, Dante Michelangelo Benvenuto Ferruccio (pf : Empoli, 1866 - Berlino, 1924)
+- Skrjabin, Aleksandr Nikolaevič (Mosca, 1872 – Mosca,1915))
+    + Kandinskij, Vasilij Vasil'evič (Mosca, 1866 – Neuilly-sur-Seine (FR), 1944)
 - Vaughan Williams, Ralph (Down Amphey, 1872 - Londra, 1958)
 - Schönberg, Arnold Franz Walther (Vienna, 1874 - Los Angeles, 1951)
 
