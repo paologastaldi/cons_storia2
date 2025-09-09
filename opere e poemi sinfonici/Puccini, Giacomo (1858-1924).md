@@ -108,10 +108,10 @@
         * Musetta e Marcello si rimettono insieme
         * non possono pagare il conto: Musetta fa pagare tutto ad Alcindoro
     + alla dogana: coppie in crisi
-        * Mimì racconta a Marcello le liti di gelosia con Rodolfo
+        * Mimì racconta a Rodolfo le liti di gelosia con Marcello
         * Rodolfo sa che Mimì è malata
-        * Musetta tradisce ripetutamente Marcello. Lite e si lasciano
-        * anche Rodolfo e Mimì si lasciano, ma non in inverno: aspetteranno la primavera
+        * Musetta tradisce ripetutamente Rodolfo, litigano e si lasciano
+        * anche Marcello e Mimì si lasciano, ma non in inverno: aspetteranno la primavera
     + Mimì: verso la morte
         * Musetta, Colline: vendono oggetti personali per comprare medicine
         * Mimì muore nella soffitta circondata da Rodolfo e gli amici (subito sembra addormentata, non si accorgono che ha spirato)
